@@ -1,0 +1,128 @@
+stack ghci
+ls
+stack runghc
+stack runghc product.hs 
+ls
+rm DPLib.hi DPLib.o
+ls
+stack 
+d ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+ls -a
+cd .emacs.d/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ffkin/
+ls
+cd Romi
+cd Roaming
+ls
+cd %USERPROFILE%
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+ls -a
+cd ..
+ls
+cd ProgramData/
+ls
+cd cd ..
+ls
+cd ..
+ls
+cd ProgramData/
+cd ..
+cd wirn
+cd Windows/
+ls
+cd ..
+ls
+cd
+ls
+cd Application\ Data/
+cd AppData
+ls
+cd Roaming/
+ls
+ls -a
+cd .emacs.d/
+ls
+cd ..
+ls
+cd local
+ls
+cd bin
+ls
+cd ..
+ls
+cd ..
+ls
+cd hoogle/
+ls
+cd ..
+ls
+vi
+emacs 
+ls
+cd
+ls
+cd Desktop/
+ls
+stack update
+chcp 
+chcp 65001
+chcp
+chcp
+chcp 65003
+chcp
+ls
+ls
+stack ghci
+stack ghci
+ls
+gchi
+ghci
+ghci
+ls
+ghci
+ls
+ghci
+git status
+ls
+git status
+git pull
+git add .
+git status
+git commit -m "add hakutyumu.hs";
+git push
+ghci
+ghci
+git status
+git add .
+git status
+git commit -m "add Traveling.hs";
+git push
+ghci
+ghci
+git status
+git add .
+git status
+git commit -m "add MinorChange.hs";
+git push
+git pull
+ghci
+ghci
+ls
+git log

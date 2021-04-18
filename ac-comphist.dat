@@ -1,0 +1,168 @@
+((("endl" .
+   [2 0 0 0])
+  ("cout" .
+   [1 0 0 0])
+  ("start" .
+   [1 0 0 0 0])
+  ("clock" .
+   [1 0 0 0 0])
+  ("send" .
+   [1 0 0 0])
+  ("isSend" .
+   [1 0 0 0 0 0])
+  ("sd" .
+   [2 0])
+  ("SendEcho" .
+   [1 0 0 0 0 0 0 0])
+  ("seconds" .
+   [2 0 0 0 0 0 0])
+  ("readIntList" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("tuplify2" .
+   [0 0 0 1 0 0 0 0])
+  ("getIntTuples" .
+   [3 0 0 0 0 0 0 0 0 0 0 1])
+  ("getIntNTuples" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("getIntTuple" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("getIntMatrix" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("getIntNList" .
+   [2 0 0 0 0 0 0 1 0 0 0])
+  ("getIntList" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("getInt" .
+   [1 0 0 0 0 0])
+  ("ByteString" .
+   [3 0 0 0 0 0 0 0 0 0])
+  ("readInt" .
+   [4 0 0 0 0 0 0])
+  ("txys" .
+   [1 0 0 0])
+  ("reachable" .
+   [3 0 0 0 0 0 0 0 0])
+  ("txy" .
+   [4 0 0])
+  ("analyze" .
+   [3 0 1 0 0 1 0])
+  ("move" .
+   [2 0 0 0])
+  ("txyList" .
+   [0 0 1 0 0 1 0])
+  ("list" .
+   [2 0 0 0])
+  ("digitSum" .
+   [2 0 0 0 1 0 0 1])
+  ("TCP" .
+   [1 0 0])
+  ("insert" .
+   [4 0 0 0 0 0])
+  ("insertionsort" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("xs" .
+   [1 0])
+  ("bubblesort" .
+   [5 0 0 0 0 0 0 0 0 0])
+  ("firstname" .
+   [0 0 0 1 0 0 0 0 0])
+  ("lastname" .
+   [1 0 0 0 0 0 0 0])
+  ("initials" .
+   [1 0 0 0 0 0 0 0])
+  ("fibSub" .
+   [2 0 0 0 0 0])
+  ("fib" .
+   [1 0 0])
+  ("hs" .
+   [1 0])
+  ("main" .
+   [3 0 0 0])
+  ("doubleMe" .
+   [2 0 0 0 0 0 0 0])
+  ("markdown-preview-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("markdown" .
+   [0 0 0 0 2 0 0 0])
+  ("auto-mode-alist" .
+   [0 0 0 0 0 0 0 0 0 2 0 0 0 0 0])
+  ("add-to-list" .
+   [1 0 0 0 0 1 0 0 0 0 0])
+  ("markdown-mode" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("indent-guide" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("rainbow-delimiters-using-stronger-colors" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("add-hook" .
+   [2 0 0 0 0 0 0 0])
+  ("face" .
+   [1 0 0 0])
+  ("index" .
+   [1 0 0 0 0])
+  ("format" .
+   [1 0 0 0 0 0])
+  ("let" .
+   [1 0 0])
+  ("rainbow-delimiters" .
+   [0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0])
+  ("defun" .
+   [1 0 0 0 0])
+  ("cl-lib" .
+   [1 0 0 0 0 0])
+  ("mode-line-inactive" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("set-face-background" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 1 0])
+  ("set-face-foreground" .
+   [0 0 0 0 0 0 1 0 0 0 0 1 0 2 1 0 0 0 0])
+  ("set-face-attribute" .
+   [1 0 0 0 1 0 2 0 1 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [6 0 0 0])
+  ("global-set-key" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("require" .
+   [8 0 1 0 0 2 0])
+  ("neotree" .
+   [0 0 0 1 1 0 0])
+  ("linum" .
+   [1 0 0 0 0])
+  ("hl-line" .
+   [2 0 0 0 0 0 0])
+  ("nil" .
+   [4 0 0])
+  ("show-paren-match" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":inherit" .
+   [1 0 0 0 0 0 0 0])
+  ("getChar" .
+   [0 0 0 1 0 0 0])
+  ("DPLib" .
+   [3 0 0 0 0])
+  ("subBubble" .
+   [2 0 0 0 0 4 0 0 0])
+  ("tail_value" .
+   [1 0 0 0 0 0 0 0 0 1])
+  ("sorted" .
+   [3 0 0 0 0 0])
+  ("d_i" .
+   [2 0 0])
+  ("kBufferSize" .
+   [2 0 0 0 0 0 0 0 1 0 0])
+  ("currLen" .
+   [7 0 0 0 0 1 0])
+  ("readBuf" .
+   [1 0 0 0 0 0 0])
+  ("totalLen" .
+   [4 0 0 0 0 1 0 0])
+  ("git-gutter-fringe" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Server" .
+   [4 0 0 0 0 0])
+  ("server" .
+   [2 0 0 0 0 0])
+  ("pcHost" .
+   [1 0 0 0 0 0])
+  ("nPort" .
+   [1 0 0 0 0])))
