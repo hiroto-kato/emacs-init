@@ -1,3 +1,3 @@
 # emacs-init
 
-~/.emacs.d/に配置する
+`~/.emacs.d/`に配置する
